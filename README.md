@@ -4,7 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run:![image](https://user-images.githubusercontent.com/99585635/211758949-06ca4074-aee4-47df-bbc0-e82de9d6dbe3.png)
+
 
 ### `npm start`
 
@@ -16,10 +17,16 @@ You may also see any lint errors in the console.
 
 ### `npm test`
 
+Add new User 
+![image](https://user-images.githubusercontent.com/99585635/211759335-e26e780e-7a47-448a-80ef-c4bf8603dfd7.png)
+
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
+For Icon Used Material UI 
+![image](https://user-images.githubusercontent.com/99585635/211760761-6161a4e5-87aa-4f60-b21e-1e2a3d142db9.png)
+
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -40,12 +47,16 @@ Instead, it will copy all the configuration files and the transitive dependencie
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
 ## Learn More
+Authentication 
+![image](https://user-images.githubusercontent.com/99585635/211759603-1df877e2-71ad-49cd-ad68-5ca102463fed.png)
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 ### Code Splitting
+Back End Architecture 
+![image](https://user-images.githubusercontent.com/99585635/211760334-76e78b95-e450-4e04-9b5e-2a573463b6a2.png)
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
@@ -54,6 +65,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/c
 This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
 ### Making a Progressive Web App
+Edit User Details 
+![image](https://user-images.githubusercontent.com/99585635/211759887-92feb563-3e88-4b79-97f0-2ede613820af.png)
+
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
