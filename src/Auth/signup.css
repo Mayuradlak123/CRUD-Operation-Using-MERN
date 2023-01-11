@@ -1,0 +1,36 @@
+body {
+    background-color: aqua;
+}
+
+.signUp {
+    width: 500px;
+    height: 450px;
+    text-align: center;
+    margin-left: 500px;
+    background-color: #ffff;
+    margin-top: 70px;
+    border-radius: 0.4cm;
+}
+
+.signUp input {
+    width: 500px;
+    /* padding-left: 50px; */
+    height: 50px;
+    border-bottom: 3px solid rgb(211, 205, 205);
+    border-top: none;
+    border-left: none;
+    padding: 20px;
+    margin-top: 20px;
+    font-size: 18px;
+    border-right: none;
+    border-radius: 15px;
+    outline: none;
+    background-color: rgba(54, 250, 5, 0.19);
+}
+
+button {
+    width: 100px;
+    background-color: blue;
+    color: white;
+    margin-right: 100px;
+}
